@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\Chat\Sample1\Sample1\bin\Debug\Sample1.exe.config
+C:\Users\User\Desktop\interviewapp\Sample1\Sample1\bin\Debug\Sample1.exe.config
+C:\Users\dvallis\Desktop\Coding Exercise\nbs\Sample1\Sample1\obj\Debug\Sample1.csprojResolveAssemblyReference.cache
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\bin\Debug\Sample1.exe.config
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\bin\Debug\Sample1.exe
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\bin\Debug\Sample1.pdb
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\obj\Debug\Sample1.csproj.SuggestedBindingRedirects.cache
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\obj\Debug\Sample1.exe
+C:\Users\abarn\OneDrive\Desktop\Samples\Shopping Cart Code Exercise_AbarnaB\Shopping Cart Code Exercise\Sample1\obj\Debug\Sample1.pdb
